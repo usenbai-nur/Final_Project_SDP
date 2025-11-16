@@ -1,10 +1,10 @@
 package newsportal.core.model;
 
 public enum ArticleType {
-    Tech,
-    Sports,
-    Politics,
-    Opinion,
-    Premium,
-    Breaking
+    TECH,
+    SPORTS,
+    POLITICS,
+    OPINION,
+    PREMIUM,
+    BREAKING
 }
